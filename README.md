@@ -2,6 +2,10 @@
 
 - 🌱 I’m currently learning MERN stack
 - 😎 An open source enthusiast
-- 📫 How to reach me:https://twitter.com/tanaydwivedi651
 
+
+
+### Social media Presence
+
+<i class="fab fa-twitter"></i>
 
