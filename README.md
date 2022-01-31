@@ -7,7 +7,7 @@
 
 ### Social media Presence:
 
-[ <img alt="instagram" src="https://img.icons8.com/office/40/000000/instagram-new.png"/> ] [instagram]
+[ [!instagram]<img src="https://img.icons8.com/office/40/000000/instagram-new.png"/> ] (instagram)
 
 
 
