@@ -5,7 +5,7 @@
 
 
 
-### Social media Presence
+### Social media Presence:
 
 [<i class="fab fa-twitter"></i>] [website]
 
