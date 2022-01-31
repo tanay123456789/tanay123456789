@@ -7,5 +7,5 @@
 
 ### Social media Presence:
 
-[<i class="fab fa-twitter"></i>] [website]
+[<img src="https://img.icons8.com/office/40/000000/instagram-new.png"/>] [website]
 
