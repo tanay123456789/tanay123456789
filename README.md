@@ -7,5 +7,5 @@
 
 ### Social media Presence:
 
-[<img src="https://img.icons8.com/office/40/000000/instagram-new.png"/>] (https://www.instagram.com/tanaydwivedi9098/)
+[ <img src="https://img.icons8.com/office/40/000000/instagram-new.png"/> ] (https://www.instagram.com/tanaydwivedi9098/)
 
