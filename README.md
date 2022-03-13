@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Tanay, a Web developer and a Technical Writer.Sometimes I even contribute to open source projects.Currently I am a second year university student.
+I’m Tanay, a Web developer and a Technical Writer.Sometimes I even contribute to open source projects.Currently I am living in Lucknow and a second year university student.
 
 
 ## TECH STACK 💻
