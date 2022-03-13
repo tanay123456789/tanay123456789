@@ -5,7 +5,10 @@
 
 Hey there 👋
 
-I’m Tanay, a Web developer and a Technical Writer.Sometimes I even contribute to open source projects.Currently I am living in Lucknow and pursuing Bachelors in Computer Application(2nd year).
+I’m Tanay, a passionate web developer, and a Technical Writer. 
+I sometimes contribute to open-source projects.
+Currently, I am living in Lucknow.
+
 
 
 ## TECH STACK 💻
