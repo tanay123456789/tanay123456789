@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I’m Tanay, a Web developer and a Technical Writer.Sometimes I even contribute to open source projects.Currently I am a second year university student pursuing BCA.
+I’m Tanay, a Web developer and a Technical Writer.Sometimes I even contribute to open source projects.Currently I am a second year university student.
 
 
 ## TECH STACK 💻
@@ -16,6 +16,8 @@ I’m Tanay, a Web developer and a Technical Writer.Sometimes I even contribute 
 - **Node.js**
 - **Firebase**
 - **Python**
+
+
 
 
 
